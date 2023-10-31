@@ -14,6 +14,4 @@ I am currently a Ph.D. student at Centre Inria de Lyon, France. I earned my Mast
 
 Please feel free to explore my personal webpage, I am still updating it (and hopefully will keep it updated with some useful content).
 
-As usual
-
-Kind regards
+See you around!
