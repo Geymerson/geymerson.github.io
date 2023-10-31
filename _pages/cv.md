@@ -11,11 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Federal University of Alagoas, 2019
+* M.S. in Informatics, Federal University of Alagoas, 2021
+* Ph.D in Computer Science, INSA Lyon, Ongoing
 
-Work experience
+Industry experience
+======
+* June 2021 — Jan 2023: Technical Project Manager
+  * Duties: Project management and leadership; Development of platforms for addressing social challenges (such as poverty and education); Identification of projects requirements, planning and execution.
+  * Location: Alagoas State Department of Science, Technology, and Innovation (Maceió, Brazil)
+
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +62,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* IEEE Robotics and Automation Society (IEEE RAS) Student Chapter, Computing Institute - UFAL
+  * Co-Founder and Vice President
+  * Coordination of weekly technical meetings with students to discuss and develop projects on mobile robotics and computer vision.
