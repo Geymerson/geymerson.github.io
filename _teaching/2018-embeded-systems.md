@@ -8,4 +8,4 @@ date: 2018-08-01
 location: "Maceio, Brazil"
 ---
 
-Teaching Assistant providing additional classes and elaboration of practical programming exercises for students enrolled in the Embedded Systems classes.
+Teaching assistant providing reiforcement classes and C language programming exercises for students enrolled in the Embedded Systems class.

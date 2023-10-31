@@ -1,5 +1,5 @@
 ---
-title: Toward Data Lake Technologies for Intelligent Societies and Cities"
+title: "Toward Data Lake Technologies for Intelligent Societies and Cities"
 collection: publications
 permalink: /publication/2023-03-29-toward-data
 excerpt: 
