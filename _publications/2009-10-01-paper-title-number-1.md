@@ -1,8 +1,8 @@
 ---
-title: Towards Edge-Based Data Lake Architecture for Intelligent Transportation System
+title: "Towards Edge-Based Data Lake Architecture for Intelligent Transportation System"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 
+excerpt: 'DAZ'
 date: 2023-10-30
 venue: 'Journal 1'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3616394.3618270'
