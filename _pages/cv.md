@@ -23,7 +23,7 @@ Industry experience
 
 Research experience
 ======
-* **Mobile data analysis** (May 2023 - Ongoig)
+* **Mobile Data Analysis** (May 2023 - Ongoig)
   * **Institution**: Centre Inria de Lyon
   * **Duties**: Processing and analysis of large datasets of mobile networks.
 
