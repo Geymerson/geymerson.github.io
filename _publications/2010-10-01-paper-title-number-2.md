@@ -1,5 +1,5 @@
 ---
-title: "Left on read: Human behavior characterization based on messaging service applications"
+title: Left on read: Human behavior characterization based on messaging service applications
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
