@@ -86,12 +86,12 @@ Teaching
   
 Service and leadership
 ======
-* IEEE Robotics and Automation Society (IEEE RAS) Student Chapter, Computing Institute - UFAL
+* **IEEE Robotics and Automation Society (IEEE RAS) Student Chapter, UFAL** (September 2017 - September 2018)
   * Co-Founder and Vice President
   * Coordination of weekly technical meetings with students to discuss and develop projects on mobile robotics and computer vision.
 
 Honors & awards
 ======
 
-* Best Undergraduate ThesisBest Undergraduate Thesis
+* **Best Undergraduate Thesis**
   * Issued by Computing Institute - Federal University of Alagoas, Oct 2019
